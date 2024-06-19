@@ -1,6 +1,7 @@
 # Caesar-Cipher
 
-This Python script implements a classic Caesar cipher encryption and decryption tool. The Caesar cipher shifts each letter in a message by a fixed number of positions down or up the alphabet.
+This Python script implements a classic Caesar cipher encryption and decryption tool. 
+The Caesar cipher shifts each letter in a message by a fixed number of positions down or up the alphabet.
 
 Features
 Encryption: Encrypts a message by shifting each letter forward in the alphabet by a specified number of positions.
