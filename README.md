@@ -1,6 +1,6 @@
 # Caesar-Cipher
 
-This Python script implements a classic Caesar cipher encryption and decryption tool. 
+This Python script implements a classic Caesar cipher encryption and decryption tool. <br />
 The Caesar cipher shifts each letter in a message by a fixed number of positions down or up the alphabet.
 
 Features
